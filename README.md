@@ -7,7 +7,7 @@
 
 (3)对DataFrame进行切片和索引
 
-# numpy1
+# numpy-1
 包括：
 
 (1)创建numpy数组并改变数据类型
