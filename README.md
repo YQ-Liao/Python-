@@ -1,3 +1,12 @@
+# series和用pandas读取文件
+包括：
+
+(1)创建series
+
+(2)查看series内容
+
+(3)用pandas读取文件
+
 # DataFrame
 包括：
 
