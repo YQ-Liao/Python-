@@ -26,3 +26,8 @@
 (3)numpy读取文件（索引和切片和DataFrame用法相同）
 
 (4)numpy修改数组内容
+
+# 设置mask
+包括：
+
+如何用DataFrame设置mask
