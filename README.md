@@ -27,6 +27,19 @@
 
 (4)numpy修改数组内容
 
+# numpy-2
+包括：
+
+(1)numpy的拼接
+
+(2)numpy的交换行或列
+
+(3)numpy产生随机数
+
+(4)numpy的拷贝
+
+(5)numpy常用统计函数
+
 # 设置mask
 包括：
 
