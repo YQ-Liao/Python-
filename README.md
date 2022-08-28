@@ -44,3 +44,10 @@
 包括：
 
 如何用DataFrame设置mask
+
+# DataFrame的合并
+包括：
+
+(1)用join方式进行合并
+
+(2)用merge进行合并
